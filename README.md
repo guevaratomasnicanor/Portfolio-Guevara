@@ -25,5 +25,5 @@ Actualmente estoy trabajando en proyectos con Python, R y SQL para análisis pre
 `Python` · `R` · `SQL` · `Pandas` · `ggplot2` · `LightGBM` · `XGBoost` · `Power BI`
 
 ## 📫 Contacto
-- 💼 [LinkedIn](https://linkedin.com/in/tomasnicanor)
+- 💼 [LinkedIn] https://www.linkedin.com/in/tomasnguevara/
 - 📧 guevaratomasnicanor@gmail.com
