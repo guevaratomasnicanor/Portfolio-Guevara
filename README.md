@@ -15,6 +15,7 @@ Actualmente estoy trabajando en proyectos con Python, R y SQL para análisis pre
 | [Bank Churn Analysis](https://github.com/guevaratomasnicanor/Bank-churn-analysis) | Análisis y predicción de abandono de clientes bancarios.
 | [Boston Housing Prices](https://github.com/guevaratomasnicanor/Boston-Housing-prices) | Análisis de los factores socioeconómicos que afectan el valor medio de las viviendas. 
 | [California Housing Prices](https://github.com/guevaratomasnicanor/California-House-prices) | Modelado de precios de vivienda y análisis de correlaciones. 
+| [mtcars](https://github.com/guevaratomasnicanor/mtcars) | Predicción de eficiencia de vehiculos. 
 
 ## 📊 Áreas de especialización
 - Limpieza de datos
