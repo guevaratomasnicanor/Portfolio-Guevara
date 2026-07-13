@@ -6,7 +6,7 @@ Soy analista de datos apasionado por el aprendizaje automático, la visualizaci�
 
 | Proyecto | Descripción |
 |-----------|-------------|
-| [Mantenimiento Predictivo de Motores Aeronáuticos (NASA CMAPSS)](https://github.com/guevaratomasnicanor/TU-REPO-MANTENIMIENTO) | Predicción de la Vida Útil Restante (RUL) de motores turbofán mediante XGBoost, funciones de pérdida asimétricas e Investigación Operativa. El modelo optimiza las decisiones de mantenimiento y reduce el costo operativo estimado en **USD 7.19 millones (31.2%)** respecto a un enfoque tradicional. |
+| [Mantenimiento Predictivo de Motores Aeronáuticos (NASA CMAPSS)][(https://github.com/guevaratomasnicanor/TU-REPO-MANTENIMIENTO)](https://github.com/guevaratomasnicanor/Mantenimiento-Predictivo) | Predicción de la Vida Útil Restante (RUL) de motores turbofán mediante Machine Learning para optimizar las decisiones de mantenimiento y reducir los costos operativos. |
 | [Detección de Fraude Bancario](https://github.com/guevaratomasnicanor/Fraud-detection) | Desarrollo de un modelo predictivo para detectar fraude en transacciones financieras utilizando el dataset PaySim. |
 | [Modelado de Riesgo Crediticio – Predicción de Default](https://github.com/guevaratomasnicanor/CREDIT-RISK-) | Desarrollo de modelos predictivos para estimar la probabilidad de incumplimiento (default) de clientes a partir de variables financieras y de comportamiento. |
 | [Predicción de Abandono de Clientes – Telecomunicaciones](https://github.com/guevaratomasnicanor/Telco-Customer-Churn) | Modelos de Machine Learning para identificar clientes con alta probabilidad de abandono y analizar los principales factores asociados al churn. |
