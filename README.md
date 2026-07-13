@@ -1,4 +1,3 @@
-```markdown
 # ¡Hola! Soy Tomás Nicanor Guevara
 
 Soy analista de datos apasionado por el aprendizaje automático, la visualización de datos y la optimización de modelos. Actualmente desarrollo proyectos con **Python, R y SQL** enfocados en Machine Learning, analítica predictiva e investigación operativa para la toma de decisiones.
